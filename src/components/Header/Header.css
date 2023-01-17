@@ -1,0 +1,15 @@
+.banner {
+  background-color: rgb(66, 133, 233);
+  text-align: center;
+}
+
+.banner img {
+  margin-top: 16px;
+  width: 200px;
+  height: 200px;;
+}
+
+.banner h1{
+  color: white;
+  padding-bottom: 16px;
+}
